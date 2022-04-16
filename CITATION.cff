@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Diagnostic Machine Learning
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Brian Kasper
+    email: bck5168@psu.edu
+  - given-names: Shivram Iyer
+    email: svi5082@psu.edu
+  - given-names: Ellen Liu
+    email: jkl5866@psu.edu
+  - given-names: Colin Ng
+    email: cmn5441@psu.edu
